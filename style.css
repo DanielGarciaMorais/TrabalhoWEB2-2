@@ -1,0 +1,29 @@
+.corTop
+{
+    background-color: black;
+    color: white;
+}
+
+.Roboto
+{
+    font-family: roboto;
+}
+
+.text-justify
+{
+    text-align: justify;
+}
+
+.text-size-11
+{
+    font-size: 0.9rem ;
+}
+
+body
+{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
